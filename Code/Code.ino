@@ -1,5 +1,5 @@
 /*
-	  Programador..............: (c) Tiago Machado
+    Programador..............: (c) Tiago Machado
     Data.....................: 08/01/2025
     Observações..............: Um sensor de  movimentos
 */
